@@ -1,11 +1,11 @@
 # Welcome
 
-**[Insert your name here]**
+**Haoyun Tong**
 
-[Replace this paragraph with a brief introduction about yourself, your academic interests, and the work you do.]
+I am a first-year MS student in Biostatistics at Columbia University's Mailman School of Public Health. I previously studied Neuroscience at NYU Shanghai, with a minor in Child and Adolescent Mental Health Studies. My academic interests include biostatistics, mental health research, epidemiology, and behavioral health. Through my coursework and previous research experience in cognitive and behavioral studies, I have developed an interest in applying statistical methods to real-world public health questions. Professionally, I hope to build a career in biostatistics, particularly in the pharmaceutical industry or public health research, where I can contribute to clinical research, data analysis, and evidence-based decision-making.
 
 ## Explore
 
 - [Résumé and experience](about.html)
-- [GitHub profile](https://github.com/YOUR_GITHUB_USERNAME)
-- [Email](mailto:YOUR_EMAIL_ADDRESS)
+- [GitHub profile](https://github.com/hytong-claudine)
+- [Email](mailto:hct2116@cumc.columbia.edu)

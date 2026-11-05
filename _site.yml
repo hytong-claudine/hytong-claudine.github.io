@@ -6,11 +6,9 @@ navbar:
     - text: "Resume"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:YOUR_EMAIL_ADDRESS
+      href: mailto:hct2116@cumc.columbia.edu
     - icon: fa-github fa-lg
-      href: https://github.com/YOUR_GITHUB_USERNAME/
-    - text: "LinkedIn"
-      href: YOUR_LINKEDIN_PROFILE_URL
+      href: https://github.com/hytong-claudine/
 output:
   html_document:
     theme: cerulean

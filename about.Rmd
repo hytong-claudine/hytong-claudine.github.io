@@ -1,29 +1,17 @@
 # Résumé
 
-> Replace the bracketed prompts below with your own information. Remove any sections that do not apply.
-
 ## Education
 
-- **[Institution]**, [Degree or program] — [Dates]
-  - [Relevant coursework, honors, or activities]
+- **New York University Shanghai** — B.S. in Neural Science, Minor in Mathematics and Child & Adolescent Mental Health Studies, Shanghai, China | Aug 2022 – May 2026
+  - GPA: 3.735/4.0
+  - Relevant coursework: Probability and Statistics, Introduction to Stochastic Processes, Linear Algebra, Multivariable Calculus, Statistics for the Behavioral Sciences, and Introduction to Computational Social Science Methods.
+- **Columbia University, Mailman School of Public Health** — M.S. in Biostatistics, New York, NY | Aug 2026 – May 2028 (Expected)
+  - Relevant coursework: Biostatistical Methods, Probability, Epidemiology, and Data Science.
 
-## Professional Experience
+## Introduction
 
-### [Position] — [Organization]
-
-*[Location] · [Dates]*
-
-- [Describe a responsibility, contribution, or result.]
-- [Describe another contribution or result.]
-
-## Selected Projects
-
-- **[Project name]** — [Brief description and link, if applicable.]
-
-## Skills
-
-[Add relevant methods, software, languages, or other skills.]
+I am a first-year MS student in Biostatistics at Columbia University's Mailman School of Public Health. I previously studied Neuroscience at NYU Shanghai, with a minor in Child and Adolescent Mental Health Studies. My academic interests include biostatistics, mental health research, epidemiology, and behavioral health. Through my coursework and previous research experience in cognitive and behavioral studies, I have developed an interest in applying statistical methods to real-world public health questions. Professionally, I hope to build a career in biostatistics, particularly in the pharmaceutical industry or public health research, where I can contribute to clinical research, data analysis, and evidence-based decision-making.
 
 ## Contact
 
-[YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME) · [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+[hct2116@cumc.columbia.edu](mailto:hct2116@cumc.columbia.edu) · [GitHub](https://github.com/hytong-claudine)
