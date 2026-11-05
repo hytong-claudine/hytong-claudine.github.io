@@ -7,5 +7,6 @@ I am a first-year MS student in Biostatistics at Columbia University's Mailman S
 ## Explore
 
 - [Résumé and experience](about.html)
+- [Instacart shopping dashboard](instacart.html)
 - [GitHub profile](https://github.com/hytong-claudine)
 - [Email](mailto:hct2116@cumc.columbia.edu)
