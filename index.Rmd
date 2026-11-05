@@ -1,0 +1,11 @@
+# Welcome
+
+**[Insert your name here]**
+
+[Replace this paragraph with a brief introduction about yourself, your academic interests, and the work you do.]
+
+## Explore
+
+- [Résumé and experience](about.html)
+- [GitHub profile](https://github.com/YOUR_GITHUB_USERNAME)
+- [Email](mailto:YOUR_EMAIL_ADDRESS)

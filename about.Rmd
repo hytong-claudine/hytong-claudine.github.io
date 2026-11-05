@@ -1,0 +1,29 @@
+# Résumé
+
+> Replace the bracketed prompts below with your own information. Remove any sections that do not apply.
+
+## Education
+
+- **[Institution]**, [Degree or program] — [Dates]
+  - [Relevant coursework, honors, or activities]
+
+## Professional Experience
+
+### [Position] — [Organization]
+
+*[Location] · [Dates]*
+
+- [Describe a responsibility, contribution, or result.]
+- [Describe another contribution or result.]
+
+## Selected Projects
+
+- **[Project name]** — [Brief description and link, if applicable.]
+
+## Skills
+
+[Add relevant methods, software, languages, or other skills.]
+
+## Contact
+
+[YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME) · [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)

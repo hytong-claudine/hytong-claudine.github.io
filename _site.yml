@@ -1,0 +1,16 @@
+name: "Personal Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Resume"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:YOUR_EMAIL_ADDRESS
+    - icon: fa-github fa-lg
+      href: https://github.com/YOUR_GITHUB_USERNAME/
+    - text: "LinkedIn"
+      href: YOUR_LINKEDIN_PROFILE_URL
+output:
+  html_document:
+    theme: cerulean
